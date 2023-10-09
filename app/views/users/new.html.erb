@@ -1,0 +1,7 @@
+<%= turbo_frame_tag "auth_form" , turbo_visit_control: "reload" do %>
+  <%if @show_signup_form%>
+    <%= render "signup"%>
+  <%else%>
+    <%= render "auth"%>
+  <%end%>
+<%end%>
