@@ -1,25 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version 3.1.2
-
-* Rails version 7.0.8
-
-* Database Mysql
-
-* Login and Signup of user using turbo.
-
-* Post curd operation using turbo and stimulus.
-
-* All posts and particular user posts using tubro frame.
-
-* Session Management of user
-
-
 # Turbo Stimulus Hotwire Demo
 
 This README provides an overview of the steps necessary to get your Ruby on Rails application up and running. It covers important details about the application's setup and functionality.
